@@ -1,6 +1,6 @@
 {
   "taskVersion": "1.0.0",
-  "taskName": "auditory_qualifying",
+  "taskName": "auditory_qualifying_16m",
   "debug": false,
   "awsLambda": {
     "saveTaskData": {
